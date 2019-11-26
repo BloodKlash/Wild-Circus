@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,qBAAqB,EAAE,KAAK;CAK/B;;AAND,AAGI,IAHA,CAGA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "sasa.scss"
+    ],
+    "names": [],
+    "file": "sasa.css"
+}
